@@ -10,4 +10,4 @@ install serial
 - in the main.py change COM arduino
 
 FOR ARDUINO
-load file arduino
+load file arduino.ino
