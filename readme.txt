@@ -10,4 +10,4 @@ install serial
 - in the main.py change COM arduino
 
 FOR ARDUINO
-load file 
+load file teachablemachine_py_arduino/arduino_python_ai/arduino_python_ai.ino
